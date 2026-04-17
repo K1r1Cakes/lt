@@ -8,6 +8,6 @@ def test_findTop():
 
     best_idx, best - findTop(f, num_col, mark_col)
 
-    assert best_idx == ''167381''
+    assert best_idx == "167381"
     assert best == "90"
 
